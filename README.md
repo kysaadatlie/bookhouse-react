@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://github.com/kysaadatlie/bookhouse-react/assets/94738149/830a7881-cf01-472d-bb2b-a24bb0d9b973)
 
 ## Description
+This is a ReactJS based book store website. Book House - it's a single page application which will only display the desired page you select from the navbar. 
 
 ## How to use it
 To use this template:
